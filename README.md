@@ -13,7 +13,7 @@ Em tempo livre costumo aprender novas tecnologias como Java, MySQL.
 * ![Alt ou título da imagem](https://camo.githubusercontent.com/148783fad0b4f453e725a2f29dfc35a1b2875669839aec46c39b240fa8873652/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637423933453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666)
 * ![Alt ou título da imagem](https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 
-<div>
+<div style="Float: left;>
   <a href="https://github.com/AlexCanel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCanel&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexCanel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

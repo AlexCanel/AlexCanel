@@ -23,4 +23,8 @@ Em tempo livre costumo aprender novas tecnologias como Java, MySQL.
 
 [![](https://camo.githubusercontent.com/1dddc2f34b6642d30ad9b7f6ae16a5432eb96bc0b05eaf1b695644c0b65c8055/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6d6172636f732d6a657375733237312f)](https://www.linkedin.com/in/alex-ferreira-canel-1551ba1a6/)
 
+ <div>
+   
+  <a href="https://www.linkedin.com/in/alex-ferreira-canel-1551ba1a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 

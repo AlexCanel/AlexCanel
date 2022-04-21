@@ -1,5 +1,6 @@
+### Olá, meu nome é Alex Ferreira Canel
 
-# Ola visitante , seja bem vindo(a) meu github!
+### Bem-vindo ao meu perfil Github!
 
 Meu nome e Alex Ferreira Canel, sou estudante do curso Sistema de Informação na Uva e amanteda tecnologia. Venho me desenvolvendo em tecnologias Front-end e sempre aberto a aprender novas tecnologias que o mercado necessita.
 
@@ -13,7 +14,11 @@ Em tempo livre costumo aprender novas tecnologias como Java, MySQL.
 * ![Alt ou título da imagem](https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 * ![Alt ou título da imagem](https://camo.githubusercontent.com/288feb64203edbb252c898bf789f473dc3f18f9d5cb83a0c41c3c76916102eee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030383544313f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
 
-
+<div>
+  <a href="https://github.com/AlexCanel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCanel&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexCanel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ### Contato:
 

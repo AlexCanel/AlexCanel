@@ -8,10 +8,11 @@ Em tempo livre costumo aprender novas tecnologias como Java.
 
 ### Tech:
 
-* ![Alt ou título da imagem](https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465) 
-* ![Alt ou título da imagem](https://camo.githubusercontent.com/0cf2fdbf61924c982af4f53c68476d1c5538f1bdce7f5ea0781c1ba0653d3ce4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3534394644453f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465) 
-* ![Alt ou título da imagem](https://camo.githubusercontent.com/148783fad0b4f453e725a2f29dfc35a1b2875669839aec46c39b240fa8873652/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637423933453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666)
-* ![Alt ou título da imagem](https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+<div style="display: inline_block"><br>
+  <img align="center" alt="alex-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg                                                                   
+  <img align="center" alt="alex-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">                                                                    <img align="center" alt="alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">                                                                         <img align="center" alt="alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="alex-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</div>
 
 <div>
   <a href="https://github.com/AlexCanel">

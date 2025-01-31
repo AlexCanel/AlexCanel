@@ -2,9 +2,9 @@
 
 ### Bem-vindo ao meu perfil Github!
 
-Meu nome e Alex Ferreira Canel, sou estudante do curso Sistema de Informação na Uva e amante da tecnologia. Venho me desenvolvendo em tecnologias Front-end e sempre aberto a aprender novas tecnologias que o mercado necessita.
+Meu nome e Alex Ferreira Canel, sou estudante do curso Sistema de Informação na Uva e amante da tecnologia. Venho me desenvolvendo em tecnologias FullStack e sempre aberto a aprender novas tecnologias que o mercado necessita.
 
-Em tempo livre costumo aprender novas tecnologias como Java.
+Em tempo livre costumo aprender novas tecnologias como JavaScript.
 
 ### Tech:
 

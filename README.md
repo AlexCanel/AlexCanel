@@ -1,4 +1,4 @@
-### Olá, meu nome é Alex Ferreira Canel
+# 🌟 Olá, meu nome é Alex Ferreira Canel
 
 ### Bem-vindo ao meu perfil Github!
 
@@ -6,21 +6,24 @@ Meu nome e Alex Ferreira Canel, sou estudante do curso Sistema de Informação n
 
 Em tempo livre costumo aprender novas tecnologias como Python.
 
-### Tech:
+# 🚀 Tecnologias
 
-<div>
-  
-  <a href="https://github.com/AlexCanel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCanel&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexCanel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<div style="display: inline_block"><br>
+<div style="display: inline-block; margin-right: 10px; margin-bottom: 20px;">
   <img align="center" alt="alex-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="alex-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="alex-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">    
-  <img align="center" alt="alex-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">                       <img align="center" alt="alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">                            <img align="center" alt="alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
+  <img align="center" alt="alex-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="alex-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
+<br><br> <!-- Cria espaço entre as divs -->
+<div style="margin-top: 20px;">
+  <a href="https://github.com/AlexCanel">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCanel&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexCanel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
 
 ### Contato:
 

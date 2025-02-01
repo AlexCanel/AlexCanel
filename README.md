@@ -18,8 +18,8 @@ Em tempo livre costumo aprender novas tecnologias como Python.
 <br><br> <!-- Cria espaço entre as divs -->
 <div style="margin-top: 20px;">
   <a href="https://github.com/AlexCanel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCanel&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexCanel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCanel&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 

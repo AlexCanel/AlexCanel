@@ -34,7 +34,7 @@ Meu nome e Alex Ferreira Canel <br>
 
 ## 📂 Principais Projetos
 
-- 🔹
+- 🔹[Jogo do Numero Secreto](https://github.com/AlexCanel/Jogo-numero-secreto)
 
 <br>
 

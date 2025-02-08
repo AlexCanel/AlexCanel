@@ -12,7 +12,7 @@
 
 <br> 
 
-# 🚀 Tecnologias
+# 🛠️ Tecnologias
 
 <div style="display: inline-block; margin-right: 10px; margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
